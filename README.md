@@ -1,10 +1,12 @@
 ### Hi there 👋
-I'm an Information Technology student at University of Trento.
+💼 I'm a Web Developer at Starsystem IT.
+
+🎓 Graduated in Information tecnology at the University of Trento.
 
 Love Web Programming, both front and back side.
 
 #### Contacts
-email: onniale@gmail.com
+✉️ onniale@gmail.com
 
 <!--
 **Onni97/Onni97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
