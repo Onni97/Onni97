@@ -3,7 +3,7 @@
 
 🎓 Graduated in Information tecnology at the University of Trento.
 
-Love Web Programming, both front and back side.
+Love Web Programming, both front and back end.
 
 #### Contacts
 ✉️ onniale@gmail.com
